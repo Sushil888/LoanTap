@@ -1,1 +1,1 @@
-# LoanTap
+Logistic Regression: Loan Default Prediction
